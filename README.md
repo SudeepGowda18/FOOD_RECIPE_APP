@@ -1,3 +1,5 @@
+HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# FOOD_RECIPE_APP
+
+Food Recipe App: A user-friendly ReactJS application that allows users to search for delicious recipes using API integration. Features include a seamless interface, popular picks section, and category navigation. This project enhanced my skills in web development and API handling. Check it out and share your feedback! e004752686b21b5a70b8babc3edba1952f3fa3b6
